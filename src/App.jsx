@@ -261,7 +261,7 @@ const App = () => {
 
           {/* Project 1 */}
           <div className="relative bg-[#1e293b] p-6 rounded-xl border border-gray-700 hover:scale-105 hover:border-teal-400 hover:shadow-teal-400/40 hover:shadow-xl transition-all duration-300">
-            <img src="/public/Leaf.png" className="rounded-md mb-4 w-full object-cover h-48" alt="AI Leaf Disease Detection" />
+            <img src="/Leaf.png" className="rounded-md mb-4 w-full object-cover h-48" alt="AI Leaf Disease Detection" />
 
             {/* Project Description on Hover */}
             <div className="absolute inset-0 bg-[#0f172a] bg-opacity-80 opacity-0 hover:opacity-100 transition-all duration-300 flex items-center justify-center p-4 rounded-md">
@@ -298,7 +298,7 @@ const App = () => {
 
           {/* Project 3 */}
           <div className="relative bg-[#1e293b] p-6 rounded-xl border border-gray-700 hover:scale-105 hover:border-teal-400 hover:shadow-teal-400/40 hover:shadow-xl transition-all duration-300">
-            <img src="/public/PowerBIDash.png" className="rounded-md mb-4 w-full object-cover h-48" alt="Sales Dashboard" />
+            <img src="/PowerBIDash.png" className="rounded-md mb-4 w-full object-cover h-48" alt="Sales Dashboard" />
 
             {/* Project Description on Hover */}
             <div className="absolute inset-0 bg-[#0f172a] bg-opacity-80 opacity-0 hover:opacity-100 transition-all duration-300 flex items-center justify-center p-4 rounded-md">
