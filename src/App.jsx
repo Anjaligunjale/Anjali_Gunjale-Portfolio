@@ -60,7 +60,7 @@ const App = () => {
         <div className="flex flex-col items-center justify-center md:flex-row md:items-center md:justify-center px-6 md:px-20">
           <div className="w-full md:w-1/4 mb-6 md:mb-0 flex justify-center">
             <img
-              src="/public/Profile.jpg"  // Path to your profile image
+              src="/Profile.jpg"  // Path to your profile image
               alt="Professional image related to coding or technology"
               className="rounded-tl-3xl rounded-br-3xl w-full object-cover h-full shadow-lg transition-transform duration-300 hover:scale-110 hover:shadow-2xl hover:border-teal-500 border-4 border-transparent"
             />
